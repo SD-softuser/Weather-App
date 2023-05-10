@@ -1,9 +1,12 @@
 import React from "react";
-import apiKeys from "./apiKeys";
+import apiKeys from "./apikey";
 import Clock from "react-live-clock";
 
 import loader from "./images/WeatherIcons.gif";
 import ReactAnimatedWeather from "react-animated-weather";
+
+import Forcast from "./forcast";
+
 const dateBuilder = (d) => {
   let months = [
     "January",
@@ -178,6 +181,7 @@ class Weather extends React.Component {
               </div>
             </div>
           </div>
+          <Forcast icon={this.state.icon} weather={this.state.main} />
         </React.Fragment>
       );
     } else {
