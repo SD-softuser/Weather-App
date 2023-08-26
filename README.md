@@ -12,5 +12,22 @@ This weather application performs two tasks:
   </div>
 
 
+# Weather Conditions and icons used
+
+<table>
+  <tr>
+    <td><img src="#" alt="Haze" width="100"><br/><p>Haze</p></td>
+    <td><img src="#" alt="Clouds" width="100"><br/><p>Clouds</p></td>
+    <td><img src="#" alt="Rain" width="100"><br/><p>Rain</p></td>
+    <td><img src="#" alt="Snow" width="100"><br/><p>Snow</p></td>
+    <td><img src="#" alt="Dust" width="100"><br/><p>Dust</p></td>
+    <td><img src="#" alt="Drizzle" width="100"><br/><p>Drizzle</p></td>
+    <td><img src="#" alt="Fog" width="100"><br/><p>Fog</p></td>
+    <td><img src="#" alt="Smoke" width="100"><br/><p>Smoke</p></td>
+    <td><img src="#" alt="Tornado" width="100"><br/><p>Tornado</p></td>
+  </tr>
+</table>
+
+
 
 
