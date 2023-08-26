@@ -8,7 +8,7 @@ This weather application performs two tasks:
   
 <br />
 <div align = "center">
-<img src = "#">
+<img src = "src/images/Screenshot from 2023-08-26 20-13-00.png">
   </div>
 
 
